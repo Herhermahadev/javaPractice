@@ -21,6 +21,7 @@ public class Datatype {
         System.out.println(standard);
         System.out.println(comparison);
         System.out.println(print);
+        //I am just making simple change
 
     }
 }
