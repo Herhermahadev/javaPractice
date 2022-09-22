@@ -8,6 +8,7 @@ public class ArrayPractice {
         String name[] = {"rahul ", "jigar ", "kanak ", "naman ", "Hiren "};
 
         arr[2]=9; // modify value stored at index 2
+        name[4]="Kiran";
 
         for (int i = 0; i < arr.length; i++) {
             System.out.println(arr[i]);
